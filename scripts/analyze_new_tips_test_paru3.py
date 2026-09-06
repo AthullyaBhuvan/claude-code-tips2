@@ -10,7 +10,7 @@ Categorizes each tip:
 - EXPERIMENT  — interesting technique, worth investigating
 - NOTED       — good to know, no action needed
 - NOISE       — low-signal for our specific workflow
-
+hello
 Usage:
     python scripts/analyze_new_tips.py                      # Analyze since last run
     python scripts/analyze_new_tips.py --since 2026-02-10   # Analyze since specific date
